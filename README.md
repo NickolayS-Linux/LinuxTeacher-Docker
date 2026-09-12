@@ -46,6 +46,31 @@ Docekr установлен
 
 Получили доступ на наш nginx. Yes ))
 
+Пройдемся по командам из ДЗ:
+
+Запустим контейнер
+
+<img width="1246" height="51" alt="image" src="https://github.com/user-attachments/assets/6aeb11d6-2433-4059-b040-25a2ebe9177b" />
+
+<img width="1548" height="51" alt="image" src="https://github.com/user-attachments/assets/64267d76-1b35-467a-bbfd-c347239f89c5" />
+
+Остановим контейнер
+
+<img width="7" height="2" alt="image" src="https://github.com/user-attachments/assets/eee5cec2-eaab-4a11-852b-f5b7c48c1d26" />
+
+Нашего контейнера нету:
+
+<img width="1183" height="66" alt="image" src="https://github.com/user-attachments/assets/922e5183-4cdd-485e-a490-11a6838d8639" />
+
+docker logs  - вывод был пустой
+
+Будет приложен файл (inspect.txt) выводы команды - docker inspect 057a66be9e2c 
+
+Создание второй версии своего образа
+
+<img width="1183" height="511" alt="image" src="https://github.com/user-attachments/assets/4243e853-4574-42db-9c1f-3299aa73cd82" />
+
+
 **В чем разница между Образом и контейнером**
 
 **Образ** — это неизменяемый шаблон, содержащий всё необходимое для запуска приложения: код, среду выполнения, библиотеки, зависимости, переменные окружения и инструкции по запуску.
