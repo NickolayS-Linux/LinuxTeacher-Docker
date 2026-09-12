@@ -70,6 +70,14 @@ docker logs  - вывод был пустой
 
 <img width="1183" height="511" alt="image" src="https://github.com/user-attachments/assets/4243e853-4574-42db-9c1f-3299aa73cd82" />
 
+Выполним push:
+
+<img width="1183" height="204" alt="image" src="https://github.com/user-attachments/assets/95a39ce5-f638-4b9a-8d35-69cb38cf30da" />
+
+Видим образ наш в репозиторий на Docker HUB
+
+<img width="876" height="467" alt="image" src="https://github.com/user-attachments/assets/19f144ea-b918-4466-ae36-a9a847fbc757" />
+
 
 **В чем разница между Образом и контейнером**
 
