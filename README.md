@@ -28,11 +28,11 @@ Docekr установлен
 
 Продолжен. Создадим свой образ nginx на базе alpine:
 
-<img width="1232" height="467" alt="image" src="https://github.com/user-attachments/assets/396f476d-7bab-43fe-ab96-ffe2d565047d" />
+<img width="1251" height="552" alt="image" src="https://github.com/user-attachments/assets/20b440ea-611a-4466-801f-ae0c6a3d88b9" />
 
 Посмотрим список образов:
 
-<img width="1232" height="137" alt="image" src="https://github.com/user-attachments/assets/3d7bbece-fd1e-465f-8171-69e6afdebadb" />
+<img width="1251" height="101" alt="image" src="https://github.com/user-attachments/assets/21c3b9ca-fbb7-4f3b-8110-644fa02995f9" />
 
 Видим наш образ nicknick/nginx:v1
 
@@ -40,9 +40,9 @@ Docekr установлен
 
 Запустим наш nginx:
 
-<img width="1234" height="40" alt="image" src="https://github.com/user-attachments/assets/095112aa-86e2-4cdc-9d3e-12db634937e8" />
+<img width="1246" height="69" alt="image" src="https://github.com/user-attachments/assets/53305a1e-5255-4c7f-9a69-48bc0ec4313f" />
 
-<img width="1234" height="40" alt="image" src="https://github.com/user-attachments/assets/77331291-6f39-471c-84e6-9079da23a57a" />
+<img width="1246" height="51" alt="image" src="https://github.com/user-attachments/assets/c8bc9e32-3063-41ab-bf7c-2afee382aad4" />
 
 Получили доступ на наш nginx. Yes ))
 
