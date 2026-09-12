@@ -70,6 +70,10 @@ docker logs  - вывод был пустой
 
 <img width="1183" height="511" alt="image" src="https://github.com/user-attachments/assets/4243e853-4574-42db-9c1f-3299aa73cd82" />
 
+Задам тег для образа загружу его в репозиторий:
+
+<img width="950" height="28" alt="image" src="https://github.com/user-attachments/assets/26078cb3-9b1f-4c07-bbcb-5f0891d78d04" />
+
 Выполним push:
 
 <img width="1183" height="204" alt="image" src="https://github.com/user-attachments/assets/95a39ce5-f638-4b9a-8d35-69cb38cf30da" />
@@ -78,6 +82,33 @@ docker logs  - вывод был пустой
 
 <img width="876" height="467" alt="image" src="https://github.com/user-attachments/assets/19f144ea-b918-4466-ae36-a9a847fbc757" />
 
+Удалим все контейнеры:
+
+<img width="950" height="489" alt="image" src="https://github.com/user-attachments/assets/760d7604-f014-47a2-8491-7a5f0dc9cc68" />
+
+Убедимся, что Docker images пуст:
+
+<img width="1602" height="69" alt="image" src="https://github.com/user-attachments/assets/9c409e49-9f0a-4ae4-a426-060d2b9129a2" />
+
+И загрузим наш контейнер из репозитория на Docker HUB:
+
+<img width="950" height="221" alt="image" src="https://github.com/user-attachments/assets/c5767d3c-c807-4e8e-8f41-19fc478a1358" />
+
+<img width="950" height="94" alt="image" src="https://github.com/user-attachments/assets/439b62cd-506c-4a4e-a64f-d608ad6818cf" />
+
+Запустим наш контейнер
+
+<img width="1602" height="69" alt="image" src="https://github.com/user-attachments/assets/39bfa2a0-8515-4bb7-bd35-d918001c0e60" />
+
+Для проверки нужно:
+
+создать каталоги
+/opt/docker/mynginx
+/opt/docker/mynginx/html
+/opt/docker/mynginx/conf
+Файлы (nginx.conf, index.html) приложены в личном кабинете OTUS
+
+ДЗ Выполнено.
 
 **В чем разница между Образом и контейнером**
 
